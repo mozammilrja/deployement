@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         
        <h1>My First Deployment</h1>
+       <h1>My First Deployment</h1>
+       <h1>My First Deployment</h1>
       </header>
     </div>
   );
